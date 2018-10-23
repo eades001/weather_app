@@ -1,0 +1,6 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/WeatherApp/v15/Server/sqlite3
+/.vs/WeatherApp/v15/.suo
