@@ -82,8 +82,6 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="clear.jpg" />
-    <Content Include="cloudy.jpg" />
     <Content Include="Images\clear.jpg">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
@@ -96,9 +94,9 @@
     <Content Include="Images\rain.jpg">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
-    <Content Include="partlycloudy.jpg" />
-    <Content Include="rain.jpg" />
-    <None Include="Resources\clear.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Resources\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

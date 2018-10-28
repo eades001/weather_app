@@ -4,7 +4,7 @@ using System.Windows.Forms;
 /*****************************************/
 /*  Project 4:   Weather Today           */
 /*  Author:      Lynn Eades              */
-/*  Date:        10/29/2018              */
+/*  Date:        10/28/2018              */
 /*****************************************/
 
 namespace WeatherApp

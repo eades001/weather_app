@@ -81,7 +81,7 @@
             this.inputValuesGroupBox.Controls.Add(this.inputHighTempLabel);
             this.inputValuesGroupBox.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.inputValuesGroupBox.Font = new System.Drawing.Font("Candara", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Pixel);
-            this.inputValuesGroupBox.Location = new System.Drawing.Point(37, 27);
+            this.inputValuesGroupBox.Location = new System.Drawing.Point(34, 27);
             this.inputValuesGroupBox.Name = "inputValuesGroupBox";
             this.inputValuesGroupBox.Size = new System.Drawing.Size(257, 386);
             this.inputValuesGroupBox.TabIndex = 1;
